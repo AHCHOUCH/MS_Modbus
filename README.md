@@ -1,4 +1,4 @@
- Modbus Traffic Generator
+a basic Modbus Traffic Generator
 
 A Python-based GUI application for generating and testing Modbus TCP traffic, developed by Natsu.
 
@@ -31,6 +31,6 @@ A Python-based GUI application for generating and testing Modbus TCP traffic, de
  Installation
 
 1. Clone the repository or download the source files
-2. Install the required packages:
+2. Install the required packages
 
-< pip install pymodbus >
+ Run
