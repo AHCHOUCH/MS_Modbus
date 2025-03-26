@@ -1,0 +1,9 @@
+2025-03-26 10:55:07,632 - MS_Modbus - INFO - [Slave] Starting Slave Server on localhost:1503
+2025-03-26 10:55:21,626 - MS_Modbus - INFO - [Master] Read Holding Registers at 0: [100]
+2025-03-26 10:55:27,013 - MS_Modbus - INFO - [Master] Read Holding Registers at 1: [200]
+2025-03-26 10:55:30,626 - MS_Modbus - INFO - [Master] Read Holding Registers at 2: [300]
+2025-03-26 10:55:34,761 - MS_Modbus - INFO - [Master] Read Holding Registers at 3: [400]
+2025-03-26 10:55:38,330 - MS_Modbus - INFO - [Master] Read Holding Registers at 4: [500]
+2025-03-26 10:55:46,272 - MS_Modbus - INFO - [Master] Read Coils at 0: [False, False, False, False, False, False, False, False]
+2025-03-26 10:56:00,062 - MS_Modbus - INFO - [Master] Write Register at 0 with value 200
+2025-03-26 10:56:06,891 - MS_Modbus - INFO - [Master] Read Holding Registers at 0: [200]
